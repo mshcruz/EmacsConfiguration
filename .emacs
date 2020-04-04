@@ -93,7 +93,7 @@
 (setq vc-follow-symlinks t)
 
 ; Sentences have one space after period
-(setq sentence-end-double-space nil
+(setq sentence-end-double-space nil)
 
 ; Confirm before closing Emacs
 (setq confirm-kill-emacs 'y-or-n-p)

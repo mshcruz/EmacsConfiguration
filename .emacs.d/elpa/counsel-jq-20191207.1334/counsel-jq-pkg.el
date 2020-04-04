@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "counsel-jq" "20191207.1334" "Live preview of \"jq\" queries using counsel" '((swiper "0.12.0") (ivy "0.12.0") (emacs "24.1")) :commit "b14dfc5c18d991c3b3051c3cbb244d5923b3a327" :keywords '("convenience" "data" "matching") :authors '(("Alain M. Lafon" . "alain@200ok.ch")) :maintainer '("Alain M. Lafon" . "alain@200ok.ch") :url "https://github.com/200ok-ch/counsel-jq")

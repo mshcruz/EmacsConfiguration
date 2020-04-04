@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ set-mark-command
+ which-key-dump-bindings
+ apropos
+ list-flycheck-errors
+ describe-text-properties
+ describe-key
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (describe-key . 1)
+ (describe-text-properties . 1)
+ (list-flycheck-errors . 1)
+ (apropos . 1)
+ (which-key-dump-bindings . 1)
+ (set-mark-command . 1)
+)

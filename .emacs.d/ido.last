@@ -1,0 +1,61 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "home/")
+ ("/mnt/c/Users/mateus.cruz/Documents/TypeScriptCourse/" . "node_modules/")
+ ("/home/" . "mshcruz/")
+ ("/home/mshcruz/" . "SharedConf/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mshcruz/AppsScripts/COVID-19Visualization/"
+ "/mnt/c/Users/mateus.cruz/Documents/TypeScriptCourse/"
+ "/home/mshcruz/"
+ "/home/mshcruz/SharedConf/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "GetReports.ts"
+ "Code.js"
+ "tsconfig.json"
+ ".emacs"
+ "functions.js"
+ "functions.ts"
+ "app.ts"
+ "types.ts"
+ "enum-obj-etc.js"
+ "enum-obj-etc.ts"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mshcruz/AppsScripts/COVID-19Visualization/" (24204 19662 214704 100000) "tsconfig.json" "appsscript.json" "Code.js" ".clasp.json" "../" "./")
+
+ ("/home/mshcruz/" (24201 50137 634389 800000) "yarn.lock" "yarn-error.log" "package.json" "package-lock.json" "node_modules/" "SharedConf/" "AppsScripts/" ".yarnrc" ".yarn/" ".sudo_as_admin_successful" ".ssh/" ".profile" ".npm/" ".local/" ".gitconfig" ".eslintrc" ".emacs~" ".emacsBackups/" ".emacs.d/" ".emacs" ".elfeed/" ".config/" ".clasprc.json" ".cache/" ".bashrc" ".bash_logout" ".bash_history" "../" "./")
+
+ ("/mnt/" (24097 37920 965896 100000) "c/" "../" "./")
+
+ ("/mnt/c/" (24201 11830 549909 800000) "xampp/" "Windows/" "var/" "Users/" "Temp/" "System Volume Information/" "swapfile.sys" "Recovery/" "Python36/" "Python27/" "ProgramData/" "Program Files (x86)/" "Program Files/" "PerfLogs/" "pagefile.sys" "OneDriveTemp/" "net461/" "MyFTP/" "msdia80.dll" "MDM/" "Intel/" "inetpub/" "hiberfil.sys" "FC12DB/" "DRIVERS/" "Documents and Settings" "distro/" "Config.Msi/" "CafeTran Espresso/" "$Recycle.Bin/" "../" "./")
+
+ ("/mnt/c/Users/" (23823 24704 267513 600000) "Public/" "MSSQLSERVER/" "MSSQL$SQLEXPRESS/" "mateus.cruz/" "Mateus Cruz/" "desktop.ini" "DefaultAppPool/" "Default User" "Default/" "All Users" ".NET v4.5 Classic/" ".NET v4.5/" "../" "./")
+
+ ("/mnt/c/Users/mateus.cruz/" (24200 32989 485066 200000) "スタート メニュー" "Videos/" "Templates" "source/" "SendTo" "Searches/" "Saved Games/" "Roaming/" "Recent" "PrintHood" "Postman/" "Pictures/" "OneDrive - UiPath/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{68fd0675-95a7-11e9-938e-b93387fbcbe6}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{68fd0675-95a7-11e9-938e-b93387fbcbe6}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{68fd0675-95a7-11e9-938e-b93387fbcbe6}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood" "My Documents" "Music/" "MicrosoftEdgeBackups/" "MateysKeys.pem" "Local Settings" "Links/" "JPKI/" "IntelGraphicsProfiles/" "Favorites/" "Evernote/" "Downloads/" "Documents/" "Desktop010101 120000/" "Desktop/" "Creative Cloud Files/" "Cookies" "Contacts/" "CmDust-Result.log" "Application Data" "AppData/" "AndroidStudioProjects/" "3D Objects/" ".vscode/" ".VirtualBox/" ".viminfo" ".templateengine/" ".ssh/" ".pylint.d/" ".openshot_qt/" ".omnisharp/" ".nuget/" ".node_repl_history" ".node-red/" ".keras/" ".javacpp/" ".gradle/" ".gitconfig" ".emulator_console_auth_token" ".dotnet/" ".config/" ".AndroidStudio3.5/" ".android/" "../" "./")
+
+ ("/mnt/c/Users/mateus.cruz/Documents/" (24201 18087 943560 500000) "サウンド レコーディング/" "Zoom/" "WindowsPowerShell/" "Visual Studio 2017/" "Visual Studio 2015/" "UIPath_BG.jpeg" "UiPathV2.dic" "UiPath/" "TypeScriptCourse/" "Test.xlsx" "TEncoder/" "SQL Server Management Studio/" "SharedWinServer/" "SharedWin7/" "SharedWin10/" "SharedUbuntu/" "SharedAWSUiPathDemo/" "SharedAllVMs/" "Scanned Documents/" "SAP/" "PackageExplorer.5.0.116/" "Outlook Files/" "Office のカスタム テンプレート/" "NuGet.exe" "MyFTP/" "My Videos" "My Pictures" "My Music" "GitHub/" "FlexiCapture12LocalProjects/" "Fiddler2/" "Fax/" "Downloads/" "desktop.ini" "Desktop/" "Default.rdp" "Custom Office Templates/" "code_analyzer_1.13/" "Camtasia/" "cache/" "blank.png" "Adobe/" "19-UIP-0023_UiPath Desktop Wallpaper_Opt2_1920X1080.jpg" ".local/" ".credentials/" "../" "./")
+
+ ("/mnt/c/Users/mateus.cruz/Documents/TypeScriptCourse/" (24201 48284 864337 0) "using-ts.ts" "using-ts.js" "types.ts" "types.js" "tsconfig.json" "package.json" "package-lock.json" "node_modules/" "index.html" "functions.ts" "functions.js" "enum-obj-etc.ts" "enum-obj-etc.js" "app.ts" "app.js" "../" "./")
+
+ ("/home/mshcruz/SharedConf/" (24201 37455 925215 200000) "writegood-mode.el" "thesaurus.el" "snippets/" "myMode.el" "latex-cjk-common/" "fish_shell_local_install.sh" "dictionaries-common/" "desktop.ini" "cuda-mode.el" "config.fish" "chktex.el" ".vimrc" ".thesaurus.cache" ".emacs" ".dropbox" ".Xmodmap" "../" "./")
+
+ ("/mnt/c/Users/mateus.cruz/Documents/TypeScriptCourse/node_modules/" (24201 24097 406981 100000) "yeast/" "yargs-parser/" "yargs/" "y18n/" "xmlhttprequest-ssl/" "ws/" "wrap-ansi/" "window-size/" "which-module/" "validate-npm-package-license/" "utils-merge/" "util-deprecate/" "use/" "urix/" "upath/" "unset-value/" "unpipe/" "universalify/" "union-value/" "ultron/" "ua-parser-js/" "toidentifier/" "to-regex-range/" "to-regex/" "to-object-path/" "to-array/" "tfunk/" "symbol-observable/" "supports-color/" "strip-bom/" "strip-ansi/" "string_decoder/" "string-width/" "stream-throttle/" "statuses/" "static-extend/" "split-string/" "spdx-license-ids/" "spdx-expression-parse/" "spdx-exceptions/" "spdx-correct/" "source-map-url/" "source-map-resolve/" "source-map/" "socket.io-parser/" "socket.io-client/" "socket.io-adapter/" "socket.io/" "snapdragon-util/" "snapdragon-node/" "snapdragon/" "setprototypeof/" "set-value/" "set-blocking/" "server-destroy/" "serve-static/" "serve-index/" "send/" "semver/" "safer-buffer/" "safe-regex/" "safe-buffer/" "rxjs/" "rx/" "ret/" "resp-modifier/" "resolve-url/" "resolve/" "requires-port/" "require-main-filename/" "require-directory/" "repeat-string/" "repeat-element/" "remove-trailing-separator/" "regex-not/" "readdirp/" "readable-stream/" "read-pkg-up/" "read-pkg/" "raw-body/" "range-parser/" "qs/" "process-nextick-args/" "posix-character-classes/" "portscanner/" "pinkie-promise/" "pinkie/" "pify/" "path-type/" "path-parse/" "path-is-absolute/" "path-exists/" "path-dirname/" "pascalcase/" "parseurl/" "parseuri/" "parseqs/" "parse-json/" "os-locale/" "opn/" "openurl/" "on-finished/" "object.pick/" "object-visit/" "object-path/" "object-copy/" "object-component/" "number-is-nan/" "normalize-path/" "normalize-package-data/" "negotiator/" "nanomatch/" "nan/" "ms/" "moment/" "mixin-deep/" "mitt/" "minimist/" "minimatch/" "mime-types/" "mime-db/" "mime/" "micromatch/" "map-visit/" "map-cache/" "lodash.isfinite/" "lodash/" "localtunnel/" "load-json-file/" "lite-server/" "limiter/" "lcid/" "kind-of/" "jsonfile/" "isobject/" "isarray/" "is-wsl/" "is-windows/" "is-utf8/" "is-plain-object/" "is-number-like/" "is-number/" "is-glob/" "is-fullwidth-code-point/" "is-extglob/" "is-extendable/" "is-descriptor/" "is-data-descriptor/" "is-buffer/" "is-binary-path/" "is-arrayish/" "is-accessor-descriptor/" "invert-kv/" "inherits/" "indexof/" "immutable/" "iconv-lite/" "http-proxy/" "http-errors/" "hosted-git-info/" "has-values/" "has-value/" "has-cors/" "has-binary2/" "has-ansi/" "graceful-fs/" "glob-parent/" "get-value/" "get-caller-file/" "fsevents/" "fs-extra/" "fresh/" "fragment-cache/" "for-in/" "follow-redirects/" "find-up/" "finalhandler/" "fill-range/" "file-uri-to-path/" "extglob/" "extend-shallow/" "expand-brackets/" "eventemitter3/" "etag/" "escape-string-regexp/" "escape-html/" "error-ex/" "engine.io-parser/" "engine.io-client/" "engine.io/" "encodeurl/" "ee-first/" "eazy-logger/" "easy-extender/" "dev-ip/" "destroy/" "depd/" "define-property/" "decode-uri-component/" "decamelize/" "debug/" "core-util-is/" "copy-descriptor/" "cookie/" "connect-logger/" "connect-history-api-fallback/" "connect/" "concat-map/" "component-inherit/" "component-emitter/" "component-bind/" "commander/" "collection-visit/" "code-point-at/" "cliui/" "class-utils/" "chokidar/" "chalk/" "camelcase/" "callsite/" "cache-base/" "bytes/" "bs-snippet-injector/" "bs-recipes/" "browser-sync-ui/" "browser-sync-client/" "browser-sync/" "braces/" "brace-expansion/" "blob/" "bindings/" "binary-extensions/" "better-assert/" "batch/" "base64id/" "base64-arraybuffer/" "base/" "balanced-match/" "backo2/" "axios/" "atob/" "async-limiter/" "async-each-series/" "async-each/" "async/" "assign-symbols/" "arraybuffer.slice/" "array-unique/" "arr-union/" "arr-flatten/" "arr-diff/" "anymatch/" "ansi-styles/" "ansi-regex/" "after/" "accepts/" ".bin/" "../" "./")
+
+ ("/home/" (24097 37943 132403 200000) "mshcruz/" "../" "./")
+
+ ("/home/mshcruz/AppsScripts/" (24200 34183 347042 800000) "RogueSalaryman/" "MovingScript/" "FirstRoguelike/" ".editorconfig" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

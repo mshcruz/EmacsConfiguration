@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
- set-mark-command
- which-key-dump-bindings
- apropos
- list-flycheck-errors
- describe-text-properties
- describe-key
- cd
+ shell
+ dired-jump
+ uncomment-region
+ tide-auto-compile-file
+ compile
+ tide-restart-server
+ package-list-packages
 )
 
 ;; ----- smex-data -----
@@ -18,4 +18,18 @@
  (apropos . 1)
  (which-key-dump-bindings . 1)
  (set-mark-command . 1)
+ (tide-restart-server . 2)
+ (flycheck-verify-setup . 1)
+ (customize-themes . 3)
+ (what-cursor-position . 1)
+ (emmet-expand-yas . 1)
+ (emmet-mode . 4)
+ (check-parens . 1)
+ (describe-mode . 1)
+ (package-list-packages . 1)
+ (compile . 1)
+ (tide-auto-compile-file . 5)
+ (uncomment-region . 1)
+ (dired-jump . 1)
+ (shell . 1)
 )
